@@ -43,6 +43,7 @@
   - [编辑器](#编辑器)
     - [vscode](#vscode)
     - [vscode 插件](#vscode-插件)
+      - [Vim](#vim)
       - [Markdown All in One](#markdown-all-in-one)
       - [Markdown Header Coloring](#markdown-header-coloring)
       - [Markdown Preview Enhanced](#markdown-preview-enhanced)
@@ -309,6 +310,11 @@ Adobe Acrobat Pro 的阉割版，不支持添加注释
 用来进行markdown写作不错
 
 ### vscode 插件
+
+#### Vim
+这个插件的全名是 VSCodeVim，它是以模拟的方式来实现 Vim 的操作。
+
+
 
 #### Markdown All in One
 这个集合了很多功能，有不少功能和其它插件重复了。
