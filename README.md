@@ -331,7 +331,7 @@ Adobe Acrobat Pro 的阉割版，不支持添加注释
 
 
 #### Explorer Exclude
-[隐藏资源管理器中的文件或文件夹](https://github.com/redvanworkshop/explorer-exclude-vscode-extension)
+隐藏资源管理器中的文件或文件夹
 
 #### File Watcher
 This extension allows configuring commands that get run whenever a file is saved or folder is changed in vscode.
