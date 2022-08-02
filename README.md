@@ -180,7 +180,7 @@
     - [mosh](#mosh)  
     - [byobu](#byobu)  
   - [编辑器](#编辑器-2)  
-    - [vi](#vi)  
+    - [vim](#vim-1)  
 <!-- /markdown-all-in-one-TOC -->  
   
 <h1>前言</h1>  
@@ -924,7 +924,7 @@ byobu kill-server # 杀死byobu，可用于重载配置文件
   
 ## 编辑器  
   
-### vi  
+### vim  
 ▲ 命令  
 ```  
 在没有特别指明的情况下，命令前的 n 代表数字 n  
