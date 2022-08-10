@@ -568,10 +568,10 @@ http://xbeta.info/filelocator-pro.htm
 ## 下载  
   
 ### internet download manager  
-http 下载软件  
+http 下载  
   
 ### bitcomet  
-bt 下载软件  
+bt 下载  
   
 ## 任务管理器  
   
