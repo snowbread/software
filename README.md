@@ -102,6 +102,9 @@
     - [Acronis Backup and Recovery Advanced Workstation](#acronis-backup-and-recovery-advanced-workstation)  
   - [卸载](#卸载)  
     - [Revo Uninstaller pro](#revo-uninstaller-pro)  
+  - [下载](#下载)  
+    - [internet download manager](#internet-download-manager)  
+    - [bitcomet](#bitcomet)  
   - [任务管理器](#任务管理器)  
     - [Process Explorer](#process-explorer)  
   - [硬件检测监控](#硬件检测监控)  
@@ -561,6 +564,14 @@ http://xbeta.info/filelocator-pro.htm
   
 ### Revo Uninstaller pro  
 卸载难以卸载的软件 或是 清理软件卸载残留，软件会扫描硬盘和注册表中和目标软件相关的内容。  
+  
+## 下载  
+  
+### internet download manager  
+http 下载软件  
+  
+### bitcomet  
+bt 下载软件  
   
 ## 任务管理器  
   
