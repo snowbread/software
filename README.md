@@ -111,6 +111,7 @@
     - [DisplayX](#displayx)  
     - [cpuz](#cpuz)  
     - [DiskGenius](#diskgenius)  
+    - [CrystalDiskInfo](#crystaldiskinfo)  
     - [AS SSD Benchmark](#as-ssd-benchmark)  
     - [AIDA64(原名Everest)](#aida64原名everest)  
   - [虚拟机](#虚拟机)  
@@ -138,7 +139,10 @@
     - [TickTick(滴答清单)](#ticktick滴答清单)  
   - [输入法](#输入法-1)  
     - [谷歌拼音输入法](#谷歌拼音输入法-1)  
+  - [亮度调节](#亮度调节)  
+    - [screen filter](#screen-filter)  
   - [系统增强](#系统增强)  
+    - [AppLock](#applock)  
     - [FV悬浮球 - fooView](#fv悬浮球---fooview)  
     - [Nova Launcher](#nova-launcher)  
     - [通知管理大师](#通知管理大师)  
@@ -607,6 +611,9 @@ bt 下载
   
 <!--  -->  
   
+### CrystalDiskInfo  
+查看硬盘的通电次数，使用时长，smart信息，健康度，对于固态硬盘还可以查看其是否支持 Trim  
+  
 ### AS SSD Benchmark  
 可用于测试固态硬盘的速度以及是否4K对齐  
   
@@ -681,7 +688,17 @@ pdf 文件阅读器，可添加注释
 ### 谷歌拼音输入法  
 UI极其出色，支持常见双拼  
   
+## 亮度调节  
+  
+### screen filter  
+如果手机的最低亮度还是觉得太亮，可以使用此软件进一步降低亮度。这个软件应该并没有改变屏幕的物理亮度，只是给画面加了一层蒙版而已。估计可以用来防止屏幕的低亮度频闪问题，具体做法是把屏幕调到不会屏闪的亮度，然后再使用这个软件来调节亮度。  
+  
 ## 系统增强  
+  
+### AppLock  
+针对特定应用 加密码锁，锁定方向，保持屏幕常亮  
+  
+对于低版本的安卓，例如安卓4，可能会出现后台被杀死的问题，可以尝试点击 设置->默认设置->选中 升级的锁定引擎(需要在设置中启用这个app的辅助功能)  
   
 ### FV悬浮球 - fooView  
 听说是开发es文件浏览器的大神的又一力作。  
