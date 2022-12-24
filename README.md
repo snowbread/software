@@ -18,6 +18,7 @@
   - [浏览器](#浏览器)  
     - [Chrome](#chrome)  
     - [Chrome 插件](#chrome-插件)  
+      - [I don't care about cookies](#i-dont-care-about-cookies)  
       - [Dark Reader](#dark-reader)  
       - [Morpheon Dark](#morpheon-dark)  
       - [Google 翻译](#google-翻译)  
@@ -244,6 +245,9 @@ win7自带看图软件不支持gif了，这个可以替代
 直接拖动网页url左侧的小锁图标到书签栏的对应位置即可  
   
 ### Chrome 插件  
+  
+#### I don't care about cookies  
+自动处理网页弹出的 cookie 横幅  
   
 #### Dark Reader  
 可以将网页变成深色的，这样比较不刺眼  
