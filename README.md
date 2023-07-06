@@ -486,6 +486,10 @@ http://xbeta.info/filelocator-pro.htm
   
 位于 开始菜单->所有程序->附件->远程桌面连接  
   
+◇ 同一远程主机不同远程用户如何记住密码  
+可以将用户名和密码写入到 rdp 文件中。  
+> RDP连接保存用户名和密码 _ ほぼろ——mstsc远程桌面.mhtml  
+  
 <!--  -->  
   
 ### realvnc  
