@@ -80,6 +80,8 @@
     - [ESET NOD32 Antivirus](#eset-nod32-antivirus)  
   - [热点](#热点)  
     - [Connectify](#connectify)  
+  - [投屏](#投屏)  
+    - [Macast](#macast)  
   - [远程控制](#远程控制)  
     - [mstsc](#mstsc)  
     - [realvnc](#realvnc)  
@@ -106,8 +108,6 @@
   - [下载](#下载)  
     - [internet download manager](#internet-download-manager)  
     - [bitcomet](#bitcomet)  
-  - [投屏](#投屏)  
-    - [Macast](#macast)  
   - [任务管理器](#任务管理器)  
     - [Process Explorer](#process-explorer)  
   - [硬件检测监控](#硬件检测监控)  
@@ -482,6 +482,12 @@ http://xbeta.info/filelocator-pro.htm
 ### Connectify  
 现在很多手机都可以当无线网桥用了(即连接wifi的同时共享热点)，所以这款软件的用处不大了。  
   
+## 投屏  
+  
+### Macast  
+默认投屏窗口没有全屏，可以修改成全屏。  
+默认自动检测更新，可以取消。  
+  
 ## 远程控制  
   
 ### mstsc  
@@ -603,12 +609,6 @@ bt 下载
 如果开启这个软件后 ping 延迟很大，或者网络时不时卡顿十几秒，那么可以找到 选项->高级设置->network.max_udp_pkt_per_sec，将其值调低，我将其改到 10  
 如果能在网关手动进行端口映射的话，建议手动端口映射，并在 选项->网络连接 中将 upnp 自动端口映射关掉  
 <!--  -->  
-  
-## 投屏  
-  
-### Macast  
-默认投屏窗口没有全屏，可以修改成全屏。  
-默认自动检测更新，可以取消。  
   
 ## 任务管理器  
   
