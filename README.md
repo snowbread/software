@@ -106,6 +106,8 @@
   - [下载](#下载)  
     - [internet download manager](#internet-download-manager)  
     - [bitcomet](#bitcomet)  
+  - [投屏](#投屏)  
+    - [Macast](#macast)  
   - [任务管理器](#任务管理器)  
     - [Process Explorer](#process-explorer)  
   - [硬件检测监控](#硬件检测监控)  
@@ -120,7 +122,8 @@
   - [内存虚拟硬盘 内存盘](#内存虚拟硬盘-内存盘)  
     - [Superspeed ramdisk plus](#superspeed-ramdisk-plus)  
   - [winpe](#winpe)  
-    - [老毛桃 winpe](#老毛桃-winpe)  
+    - [微PE工具箱](#微pe工具箱)  
+    - [优启通](#优启通)  
   - [分区及多系统引导](#分区及多系统引导)  
     - [Acronis Disk Director home](#acronis-disk-director-home)  
     - [DiskGenius](#diskgenius-1)  
@@ -601,6 +604,12 @@ bt 下载
 如果能在网关手动进行端口映射的话，建议手动端口映射，并在 选项->网络连接 中将 upnp 自动端口映射关掉  
 <!--  -->  
   
+## 投屏  
+  
+### Macast  
+默认投屏窗口没有全屏，可以修改成全屏。  
+默认自动检测更新，可以取消。  
+  
 ## 任务管理器  
   
 ### Process Explorer  
@@ -644,8 +653,11 @@ pc硬件参数检测及实时监控各种动态参数(例如cpu温度等)，动�
   
 ## winpe  
   
-### 老毛桃 winpe  
-支持uefi启动，包含常用工具，例如DiskGenius，系统引导修复，内存检测等  
+### 微PE工具箱  
+  
+### 优启通  
+  
+<!--  -->  
   
 ## 分区及多系统引导  
   
