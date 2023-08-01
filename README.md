@@ -108,6 +108,8 @@
   - [下载](#下载)  
     - [internet download manager](#internet-download-manager)  
     - [bitcomet](#bitcomet)  
+  - [启动项管理](#启动项管理)  
+    - [Autoruns](#autoruns)  
   - [任务管理器](#任务管理器)  
     - [Process Explorer](#process-explorer)  
   - [硬件检测监控](#硬件检测监控)  
@@ -609,6 +611,12 @@ bt 下载
 如果开启这个软件后 ping 延迟很大，或者网络时不时卡顿十几秒，那么可以找到 选项->高级设置->network.max_udp_pkt_per_sec，将其值调低，我将其改到 10  
 如果能在网关手动进行端口映射的话，建议手动端口映射，并在 选项->网络连接 中将 upnp 自动端口映射关掉  
 <!--  -->  
+  
+## 启动项管理  
+  
+### Autoruns  
+查看并管理各类启动项，例如登录，注册表，任务计划，服务等启动项  
+> Autoruns——管理 Windows 启动项的必备工具 - 系统极客.mhtml  
   
 ## 任务管理器  
   
