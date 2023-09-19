@@ -123,6 +123,8 @@
     - [VMware Workstation](#vmware-workstation)  
   - [内存虚拟硬盘 内存盘](#内存虚拟硬盘-内存盘)  
     - [Superspeed ramdisk plus](#superspeed-ramdisk-plus)  
+  - [驱动](#驱动)  
+    - [drivermax](#drivermax)  
   - [winpe](#winpe)  
     - [微PE工具箱](#微pe工具箱)  
     - [优启通](#优启通)  
@@ -658,6 +660,11 @@ pc硬件参数检测及实时监控各种动态参数(例如cpu温度等)，动�
   
 ### Superspeed ramdisk plus  
 [给折腾ramdisk的朋友们一点建议 - duwei76 - 博客园](https://www.cnblogs.com/duw76/p/9754625.html)  
+  
+## 驱动  
+  
+### drivermax  
+驱动安装软件，免费版每天可以安装两个驱动  
   
 ## winpe  
   
