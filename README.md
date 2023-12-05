@@ -87,6 +87,7 @@
     - [Macast](#macast)  
   - [远程控制](#远程控制)  
     - [远程桌面连接(mstsc)](#远程桌面连接mstsc)  
+      - [RDPWrap](#rdpwrap)  
     - [realvnc](#realvnc)  
     - [TeamViewer](#teamviewer)  
     - [qq](#qq)  
@@ -512,14 +513,14 @@ http://xbeta.info/filelocator-pro.htm
   
 系统直接搜索 远程桌面连接 即可找到，也可在运行栏输入 mstsc 启动，mstsc 之后可以附加相应参数，这样可以直接连接特定主机而不用打开gui界面。  
   
-◇ 如何多用户同时连接同一主机的远程桌面  
-使用软件 RDPWrap 即可  
-  
 ◇ 同一远程主机不同远程用户如何记住密码  
 可以将用户名和密码写入到 rdp 文件中。  
 > RDP连接保存用户名和密码 _ ほぼろ——mstsc远程桌面.mhtml  
   
 <!--  -->  
+  
+#### RDPWrap  
+远程桌面服务端同一时刻只能被单一用户连接，如果需要多用户同时连接，可以使用本软件  
   
 ### realvnc  
 这个主要用于替代win7系统自带的远程桌面服务端，因为win7系统自带的远程桌面服务端不太流畅。  
