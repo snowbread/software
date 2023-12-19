@@ -51,7 +51,8 @@
       - [Markdown Shortcuts](#markdown-shortcuts)  
       - [Explorer Exclude](#explorer-exclude)  
       - [File Watcher](#file-watcher)  
-    - [BeyondCompare](#beyondcompare)  
+    - [EditPlus](#editplus)  
+    - [PSPad](#pspad)  
     - [source insight](#source-insight)  
     - [Sublime Text](#sublime-text)  
     - [notepad2](#notepad2)  
@@ -80,6 +81,7 @@
     - [Listary](#listary)  
     - [FileLocator Pro](#filelocator-pro)  
     - [docfetcher](#docfetcher)  
+    - [BeyondCompare](#beyondcompare)  
   - [杀毒](#杀毒)  
     - [ESET NOD32 Antivirus](#eset-nod32-antivirus)  
   - [热点](#热点)  
@@ -375,8 +377,11 @@ Adobe Acrobat Pro 的阉割版，不支持添加注释
 #### File Watcher  
 This extension allows configuring commands that get run whenever a file is saved or folder is changed in vscode.  
   
-### BeyondCompare  
-文件比较软件，可以进行各类比较，例如文本比较，文件夹比较，十六进制比较，图片比较，注册表比较等。还可以进行文本合并。  
+### EditPlus  
+侧边栏可以显示目录树  
+  
+### PSPad  
+备用  
   
 ### source insight  
 主要用来查看C代码，查看变量和函数的定义非常方便，且能快速跳转到定义处。  
@@ -386,7 +391,9 @@ UTF-8编码的中文会识别成乱码，使用ANSI编码就没有问题了。
 目前的版本是3.50.0064，貌似已经停止开发新版本了。  
   
 ### Sublime Text  
-支持文件失焦自动保存功能(需设置)  
+自动恢复功能，计算机意外断电或蓝屏后再次打开自动恢复到崩溃前状态  
+  
+文件失焦自动保存功能(需设置)  
   
 不支持ANSI编码，默认使用UTF8编码  
   
@@ -493,6 +500,9 @@ http://xbeta.info/filelocator-pro.htm
   
 ### docfetcher  
 全文检索软件  
+  
+### BeyondCompare  
+文件比较软件，可以进行各类比较，例如文本比较，文件夹比较，十六进制比较，图片比较，注册表比较等。还可以进行文本合并。  
   
 ## 杀毒  
   
