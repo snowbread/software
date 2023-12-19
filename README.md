@@ -108,6 +108,10 @@
     - [Fences](#fences)  
     - [RocketDock](#rocketdock)  
     - [ObjectDock](#objectdock)  
+  - [资源管理器](#资源管理器)  
+    - [Q-Dir](#q-dir)  
+    - [Total Commander](#total-commander)  
+    - [Directory Opus](#directory-opus)  
   - [脚本](#脚本)  
     - [AutoHotkey](#autohotkey)  
   - [备份](#备份)  
@@ -184,6 +188,8 @@
   - [桌面增强](#桌面增强-1)  
     - [uBar](#ubar)  
     - [Bartender](#bartender)  
+  - [资源管理器](#资源管理器-1)  
+    - [Path Finder](#path-finder)  
   - [终端](#终端-1)  
     - [iTerm2](#iterm2)  
   - [脚本](#脚本-2)  
@@ -612,6 +618,17 @@ http://xbeta.info/filelocator-pro.htm
 ### ObjectDock  
 模拟macos的dock  
   
+## 资源管理器  
+  
+### Q-Dir  
+四窗格资源管理器，一个窗口被分成四个窗格，每个窗格可以独立操作，四个窗格可以同时显示四个文件夹的内容，而且每个窗格都支持多标签。  
+  
+### Total Commander  
+这个资源管理器有一个好用的功能，就是将当前目录下的文件和当前目录包含的所有子目录下的文件显示在一起，这个功能的热键是 ctrl + b  
+  
+### Directory Opus  
+备用  
+  
 ## 脚本  
   
 ### AutoHotkey  
@@ -869,6 +886,11 @@ GPS跑步记录软件
   
 ### Bartender  
 隐藏菜单栏右侧的图标，实现类似于windows系统隐藏托盘栏图标的效果。  
+  
+## 资源管理器  
+  
+### Path Finder  
+用于替代系统自带的资源管理器  
   
 ## 终端  
   
