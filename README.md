@@ -97,6 +97,7 @@
   - [输入法](#输入法)  
     - [谷歌拼音输入法](#谷歌拼音输入法)  
   - [桌面增强](#桌面增强)  
+    - [ExplorerPatcher](#explorerpatcher)  
     - [Taskbar Numberer](#taskbar-numberer)  
     - [DisplayFusion](#displayfusion)  
     - [Start Killer](#start-killer)  
@@ -106,6 +107,7 @@
     - [Dexpot](#dexpot)  
     - [Fences](#fences)  
     - [RocketDock](#rocketdock)  
+    - [ObjectDock](#objectdock)  
   - [脚本](#脚本)  
     - [AutoHotkey](#autohotkey)  
   - [备份](#备份)  
@@ -564,6 +566,9 @@ http://xbeta.info/filelocator-pro.htm
   
 ## 桌面增强  
   
+### ExplorerPatcher  
+将 win11 的界面还原成 win10 的界面，包括右键菜单，任务栏分组，任务栏位置，窗口圆角等。  
+  
 ### Taskbar Numberer  
 给任务栏程序图标和托盘程序图标加上数字序号，让不同程序间的分隔更加明显，易于区分。  
   
@@ -602,6 +607,9 @@ http://xbeta.info/filelocator-pro.htm
 可以实现类似安卓的桌面效果  
   
 ### RocketDock  
+模拟macos的dock  
+  
+### ObjectDock  
 模拟macos的dock  
   
 ## 脚本  
