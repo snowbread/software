@@ -572,6 +572,8 @@ http://xbeta.info/filelocator-pro.htm
 ### 谷歌拼音输入法  
 这个输入法支持常见的双拼语法  
   
+<!--  -->  
+  
 ## 桌面增强  
   
 ### ExplorerPatcher  
