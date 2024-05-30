@@ -70,6 +70,8 @@
   - [剪贴板增强](#剪贴板增强)  
     - [Ditto](#ditto)  
   - [鼠标键盘](#鼠标键盘)  
+    - [Auto Hide Mouse Cursor](#auto-hide-mouse-cursor)  
+    - [Mouse Without Borders](#mouse-without-borders)  
     - [RemapKey](#remapkey)  
     - [StrokeIt](#strokeit)  
     - [autoclipx](#autoclipx)  
@@ -125,6 +127,10 @@
     - [Autoruns](#autoruns)  
   - [任务管理器](#任务管理器)  
     - [Process Explorer](#process-explorer)  
+  - [设备管理](#设备管理)  
+    - [DevManView](#devmanview)  
+    - [DevCon](#devcon)  
+    - [PnPUtil](#pnputil)  
   - [硬件检测监控](#硬件检测监控)  
     - [DisplayX](#displayx)  
     - [cpuz](#cpuz)  
@@ -454,6 +460,18 @@ gitk 是简易的图形客户端，主要用来查看提交历史。如果提交
   
 ## 鼠标键盘  
   
+### Auto Hide Mouse Cursor  
+鼠标指针自动隐藏软件  
+  
+可以指定鼠标不动后多久隐藏鼠标指针，gui界面最小能设置到2秒后隐藏，如果需要0秒隐藏，可在gui界面修改隐藏时间后去软件自动生成的ini文件里再修改对应的项。  
+  
+默认按下键盘任意按键就会隐藏鼠标指针，可以取消这个选项。  
+  
+可以设置启动后隐藏主界面，如果需要唤出主界面再运行一次程序即可。  
+  
+### Mouse Without Borders  
+一套键盘鼠标控制多台电脑，例如有两台电脑，每台电脑都有键盘鼠标，那么每台电脑的键盘鼠标都可以控制另一台电脑。  
+  
 ### RemapKey  
 键盘映射软件，通过修改注册表的方式来映射按键，因此无需常驻后台。  
   
@@ -688,6 +706,17 @@ bt 下载
 **功能**  
 * 查看进程的环境变量  
 * 查看进程加载的文件，例如 AutoHotkey.exe 进程加载的脚本文件  
+  
+## 设备管理  
+  
+### DevManView  
+可以像系统自带的设备管理器一样显示设备，同时支持命令行的方式禁用设备，还可以显示并禁用另一个windows系统的设备  
+  
+### DevCon  
+系统未有自带，命令行软件，可以显示或禁用设备  
+  
+### PnPUtil  
+系统自带，命令行软件，主要用于驱动管理，也可以用于禁用设备  
   
 ## 硬件检测监控  
   
