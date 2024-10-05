@@ -18,6 +18,7 @@
   - [浏览器](#浏览器)  
     - [Chrome](#chrome)  
     - [Chrome 插件](#chrome-插件)  
+      - [Google Images Restored](#google-images-restored)  
       - [I don't care about cookies](#i-dont-care-about-cookies)  
       - [Dark Reader](#dark-reader)  
       - [Morpheon Dark](#morpheon-dark)  
@@ -274,6 +275,9 @@ win7自带看图软件不支持gif了，这个可以替代
 直接拖动网页url左侧的小锁图标到书签栏的对应位置即可  
   
 ### Chrome 插件  
+  
+#### Google Images Restored  
+使用谷歌图片搜索时，可以不进入图片来源网站，直接显示原始图片  
   
 #### I don't care about cookies  
 自动处理网页弹出的 cookie 横幅  
