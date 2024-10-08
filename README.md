@@ -219,6 +219,12 @@
     - [byobu](#byobu)  
   - [编辑器](#编辑器-2)  
     - [vim](#vim-1)  
+  - [相册](#相册)  
+    - [Piwigo](#piwigo)  
+    - [Piwigo 插件](#piwigo-插件)  
+      - [DefaultCreationDateToToday](#defaultcreationdatetotoday)  
+      - [RV Thumb Scroller](#rv-thumb-scroller)  
+      - [Lightbox](#lightbox)  
 <!-- /markdown-all-in-one-TOC -->  
   
 <h1>前言</h1>  
@@ -1263,3 +1269,23 @@ n@q 执行 n 次寄存器 q 中的宏(当宏中的动作命令执行失败时，
 @@ 执行最后一次调用的宏  
   
 ```  
+  
+## 相册  
+  
+### Piwigo  
+图片默认的排序方式是按发布日期排序，可以修改排序方式，且每个相册的排序方式都是独立的。  
+  
+图片的创建日期是来自于图片的拍摄日期(注意:无法获取 png 格式图片的拍摄日期)，如果没有拍摄日期且开启了 DefaultCreationDateToToday 插件的话，会将图片的上传日期设置为图片的创建日期，你也可以手动在图片的编辑页面修改图片的创建日期。  
+  
+怀疑对 png 图片的支持不好，貌似有时 png 图片的打开速度很慢  
+  
+### Piwigo 插件  
+  
+#### DefaultCreationDateToToday  
+这个插件是在图片没有拍摄日期时，自动将图片的上传日期设置为图片的创建日期  
+  
+#### RV Thumb Scroller  
+滚动页面到底部自动加载下一页的内容  
+  
+#### Lightbox  
+改变单张图片的显示方式  
