@@ -133,6 +133,11 @@
     - [DevManView](#devmanview)  
     - [DevCon](#devcon)  
     - [PnPUtil](#pnputil)  
+  - [网络检测](#网络检测)  
+    - [advanced ip scanner](#advanced-ip-scanner)  
+    - [Nmap](#nmap)  
+    - [nc(netcat)](#ncnetcat)  
+    - [TCPView](#tcpview)  
   - [硬件检测监控](#硬件检测监控)  
     - [DisplayX](#displayx)  
     - [cpuz](#cpuz)  
@@ -733,6 +738,21 @@ bt 下载
   
 ### PnPUtil  
 系统自带命令，主要用于驱动管理，也可以用于禁用设备  
+  
+## 网络检测  
+  
+### advanced ip scanner  
+扫描局域网主机的ip地址  
+  
+### Nmap  
+网络扫描  
+  
+### nc(netcat)  
+通过 TCP 和 UDP 在网络中读写数据  
+  
+### TCPView  
+微软官方工具，查看本地和远端的 TCP 和 UDP 连接  
+  
   
 ## 硬件检测监控  
   
