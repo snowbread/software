@@ -167,10 +167,11 @@
     - [Jota Text Editor](#jota-text-editor)  
   - [文件管理](#文件管理)  
     - [ES文件浏览器](#es文件浏览器)  
-  - [笔记](#笔记-1)  
-    - [Evernote(印象笔记)](#evernote印象笔记)  
   - [GTD](#gtd)  
-    - [TickTick(滴答清单)](#ticktick滴答清单)  
+    - [TickTick](#ticktick)  
+  - [时间控制](#时间控制)  
+    - [多工计时器(Multi Timer StopWatch)](#多工计时器multi-timer-stopwatch)  
+    - [Hybrid Interval Timer](#hybrid-interval-timer)  
   - [输入法](#输入法-1)  
     - [谷歌拼音输入法](#谷歌拼音输入法-1)  
   - [亮度调节](#亮度调节)  
@@ -831,15 +832,22 @@ pdf 文件阅读器，可添加注释
 * 建立文件或文件夹的桌面快捷方式  
 * 将安装的 app 备份成 apk文件  
   
-## 笔记  
-  
-### Evernote(印象笔记)  
-桌面小控件极其强大  
+<!--  -->  
   
 ## GTD  
   
-### TickTick(滴答清单)  
-安排未来任务十分好用  
+### TickTick  
+安排未来任务十分好用，可以设置任务定时提醒，还可以与人共享任务列表并@对方  
+  
+## 时间控制  
+  
+### 多工计时器(Multi Timer StopWatch)  
+可以同时启动多个倒计时或正计时  
+  
+如果安卓系统版本为v4.4.2，那么此软件我使用的最稳定的版本是v2.8.14  
+  
+### Hybrid Interval Timer  
+可以用来作为番茄钟或间歇性力量训练计时  
   
 ## 输入法  
   
