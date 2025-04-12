@@ -169,7 +169,7 @@
     - [ES文件浏览器](#es文件浏览器)  
   - [GTD](#gtd)  
     - [TickTick](#ticktick)  
-  - [时间控制](#时间控制)  
+  - [计时器](#计时器)  
     - [多工计时器(Multi Timer StopWatch)](#多工计时器multi-timer-stopwatch)  
     - [Hybrid Interval Timer](#hybrid-interval-timer)  
   - [输入法](#输入法-1)  
@@ -839,7 +839,7 @@ pdf 文件阅读器，可添加注释
 ### TickTick  
 安排未来任务十分好用，可以设置任务定时提醒，还可以与人共享任务列表并@对方  
   
-## 时间控制  
+## 计时器  
   
 ### 多工计时器(Multi Timer StopWatch)  
 可以同时启动多个倒计时或正计时  
