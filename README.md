@@ -1006,7 +1006,7 @@ GPS跑步记录软件
   
 # Linux软件  
 > 打造程序员高效的工作环境 - 知乎——linux_bash_技巧_命令行的艺术.mhtml  
-GitHub 60000+ Star：命令行的艺术 - 掘金——linux_bash_技巧_命令行的艺术.mhtml  
+> GitHub 60000+ Star：命令行的艺术 - 掘金——linux_bash_技巧_命令行的艺术.mhtml  
   
 ## 终端热键  
 ```  
@@ -1102,8 +1102,8 @@ yum -y install byobu
   
 ★ 热键  
 > 如何在Ubuntu 16.04上安装和使用Byobu进行终端管理 - 云+社区 - 腾讯云.mhtml  
-我的tmux之旅（tmux使用详解） _ 小莫的博客-fighting(技术分享、生活随笔).mhtml  
-Tmux 快捷键 & 速查表 & 简明教程 · GitHub.mhtml  
+> 我的tmux之旅（tmux使用详解） _ 小莫的博客-fighting(技术分享、生活随笔).mhtml  
+> Tmux 快捷键 & 速查表 & 简明教程 · GitHub.mhtml  
   
 若和终端的热键有冲突，可以禁用终端的相关热键，例如，如果使用的是 windows 下 git bash 自带的 mintty 终端，则可以禁用 Alt+Fn(Options->Keys->Alt+Fn shortcuts) 以及禁用 Shift 作为滚屏的修饰符(Options->Window->Modifier for scrolling-> Off)  
   
