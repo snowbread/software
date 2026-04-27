@@ -166,12 +166,15 @@
   - [阅读器](#阅读器-1)  
     - [多看阅读](#多看阅读)  
     - [Adobe Acrobat Reader](#adobe-acrobat-reader)  
+  - [笔记](#笔记-1)  
+    - [Obsidian](#obsidian)  
   - [编辑器](#编辑器-1)  
     - [Jota Text Editor](#jota-text-editor)  
   - [文件管理](#文件管理)  
     - [ES文件浏览器](#es文件浏览器)  
   - [GTD](#gtd)  
     - [TickTick](#ticktick)  
+    - [Jorte](#jorte)  
   - [计时器](#计时器)  
     - [多工计时器(Multi Timer StopWatch)](#多工计时器multi-timer-stopwatch)  
     - [Hybrid Interval Timer](#hybrid-interval-timer)  
@@ -841,6 +844,11 @@ epub 文件阅读器
 ### Adobe Acrobat Reader  
 pdf 文件阅读器，可添加注释  
   
+## 笔记  
+  
+### Obsidian  
+以md文件形式存储笔记  
+  
 ## 编辑器  
   
 ### Jota Text Editor  
@@ -856,12 +864,13 @@ pdf 文件阅读器，可添加注释
 * 建立文件或文件夹的桌面快捷方式  
 * 将安装的 app 备份成 apk文件  
   
-<!--  -->  
-  
 ## GTD  
   
 ### TickTick  
 安排未来任务十分好用，可以设置任务定时提醒，还可以与人共享任务列表并@对方  
+  
+### Jorte  
+日历形式的GTD软件，我把它当作一个记事的日历用  
   
 ## 计时器  
   
