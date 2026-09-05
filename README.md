@@ -102,6 +102,8 @@
     - [qq](#qq)  
   - [输入法](#输入法)  
     - [谷歌拼音输入法](#谷歌拼音输入法)  
+  - [终端](#终端)  
+    - [ConEmu](#conemu)  
   - [桌面增强](#桌面增强)  
     - [ExplorerPatcher](#explorerpatcher)  
     - [Taskbar Numberer](#taskbar-numberer)  
@@ -194,7 +196,7 @@
   - [远程控制](#远程控制-1)  
     - [Remote Desktop](#remote-desktop)  
     - [scrcpy](#scrcpy)  
-  - [终端](#终端)  
+  - [终端](#终端-1)  
     - [JuiceSSH](#juicessh)  
   - [脚本](#脚本-1)  
     - [Automate](#automate)  
@@ -212,7 +214,7 @@
     - [Bartender](#bartender)  
   - [资源管理器](#资源管理器-1)  
     - [Path Finder](#path-finder)  
-  - [终端](#终端-1)  
+  - [终端](#终端-2)  
     - [iTerm2](#iterm2)  
   - [脚本](#脚本-2)  
     - [Keyboard Maestro](#keyboard-maestro)  
@@ -631,6 +633,11 @@ mstsc 不支持动态分辨率，也就是说分辨率不会随窗口的大小�
 这个输入法支持常见的双拼语法  
   
 <!--  -->  
+  
+## 终端  
+  
+### ConEmu  
+win7自带的cmd对utf8的支持有问题，可以用这个终端代替  
   
 ## 桌面增强  
   
