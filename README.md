@@ -32,6 +32,8 @@
   - [笔记](#笔记)  
     - [Evernote](#evernote)  
     - [OneNote](#onenote)  
+  - [思维导图](#思维导图)  
+    - [TheBrain](#thebrain)  
   - [词典](#词典)  
     - [网易有道词典](#网易有道词典)  
   - [文档电子书制作转换](#文档电子书制作转换)  
@@ -62,6 +64,9 @@
     - [gVim](#gvim)  
     - [Dreamweaver](#dreamweaver)  
     - [SciTE4AutoHotkey](#scite4autohotkey)  
+    - [Zettlr](#zettlr)  
+  - [格式转换](#格式转换)  
+    - [Pandoc](#pandoc)  
   - [版本控制](#版本控制)  
     - [git](#git)  
     - [fork](#fork)  
@@ -162,6 +167,7 @@
     - [微PE工具箱](#微pe工具箱)  
     - [优启通](#优启通)  
   - [分区及多系统引导](#分区及多系统引导)  
+    - [Ventoy](#ventoy)  
     - [Acronis Disk Director home](#acronis-disk-director-home)  
     - [DiskGenius](#diskgenius-1)  
 - [Android软件](#android软件)  
@@ -345,6 +351,15 @@ win7自带看图软件不支持gif了，这个可以替代
 ### OneNote  
 这个是模拟纸质笔记本的一款软件，搜索功能比较弱，支持加密功能，适合单机轻度使用。  
   
+## 思维导图  
+  
+### TheBrain  
+这个思维导图软件十分独特，感觉称之为脑图更合适。它最大的特点是可以只显示思维导图中指定节点下面的内容，这样可以避免其它节点的干扰，这在思维导图很庞大的时候尤其有用。这种显示模式感觉和大脑的思维方式很类似，聚焦于局部，并可以随时切换到不同的区域。  
+  
+这个软件是多平台软件且数据可以在不同的平台间进行同步。Windows和安卓上用起来没问题，苹果上我没用过。  
+  
+这个软件如果需要使用所有功能是需要付费的，不过免费版的基本功能也够我用了，而且免费版也同样可以进行数据同步。  
+  
 ## 词典  
   
 ### 网易有道词典  
@@ -459,6 +474,14 @@ vim的windows版本，对大文件的支持很好(例如几兆的文本文件)
   
 ### SciTE4AutoHotkey  
 AutoHotkey专用编辑器，支持高亮和自动补全  
+  
+### Zettlr  
+Markdown编辑器，可以将Markdown文件导出成各种格式  
+  
+## 格式转换  
+  
+### Pandoc  
+命令行文档格式转换工具，例如可以将Markdown文件转换为html文件  
   
 ## 版本控制  
   
@@ -844,6 +867,11 @@ pc硬件参数检测及实时监控各种动态参数(例如cpu温度等)，动�
 <!--  -->  
   
 ## 分区及多系统引导  
+  
+### Ventoy  
+多系统启动U盘制作工具，支持启动 ISO/WIM/IMG/VHD(x)/EFI 等类型的文件，只需要把文件直接拖到U盘里面就可以启动了，无需其他操作。  
+  
+你还可以在 Ventoy 的界面中直接浏览并启动本地硬盘中的 ISO/WIM/IMG/VHD(x)/EFI 等类型的文件。  
   
 ### Acronis Disk Director home  
 磁盘分区及多系统引导  
